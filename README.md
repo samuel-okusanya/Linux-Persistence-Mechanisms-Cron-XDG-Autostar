@@ -1,4 +1,4 @@
-# Linux-Persistence-Mechanisms-Cron-XDG-Autostart# Linux Persistence Mechanisms: Cron & XDG Autostart
+# Linux-Persistence-Mechanisms-Cron-XDG-Autostart Linux Persistence Mechanisms: Cron & XDG Autostart
 
 **A hands-on Linux security assessment exploring persistence mechanisms, MITRE ATT&CK technique emulation, and defensive detection opportunities.**
 
