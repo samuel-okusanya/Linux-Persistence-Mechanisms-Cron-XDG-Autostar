@@ -62,7 +62,7 @@ The assessment focused on:
 
 | Component | Description |
 |---|---|
-| Operating System | [Insert Linux distribution] |
+| Operating System | Linux kali 6.8.11-amd64 |
 | Virtualization | Disposable Linux VM |
 | Programming Language | Python 3 |
 | Scheduling Mechanism | Cron |
